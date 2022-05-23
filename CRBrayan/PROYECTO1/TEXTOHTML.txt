@@ -1,0 +1,52 @@
+         
+         
+     <!--ENCABEZADO,ELEMENTO SEMANTICO,SOLO PUEDE HABER UNO DENTRO DE UNA SECCIÓN-ELEMENTO MUY IMPORTANTE PARA GOOGLE
+       SEGÚN HA IDO EVOLUCIONANDO HTML HA IDO CAMBIANDO SU FUNCIÓN-->
+         <!--alt texto alternativo de cara a google,se utiliza para imágenes-->
+         <!--
+<div>
+         <p>
+             <p id="ps1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
+            <p id="ps2">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p> <span id="ps3">It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</span>
+        </p>
+
+
+  <div>
+            <img src="7a632d7a1602d3233d251d64eca7cea4.jpg"><br>
+             <a href="PERROS.html">PERRO</a>
+             </div>
+         </td>
+         <td>
+              <td>
+         <div>
+             <img src="gato.png"><br>
+             <a href="GATOS.html">GATO</a>
+             </div>
+         </td>
+         <td>
+              <td>
+         <div>
+             <img src="cerdo.webp"><br>
+             <a href="CERDOS.html">CERDO</a>
+             </div>
+         </td>
+         <td>
+         <ul>
+         <img src="Logo-de-Google.jpg"><BR>
+         <a href="http:\\www.google.es">GOOGLE</a>    
+         </ul>
+         </td>
+         
+         </div>
+-->
+        
+         <!--lISTA DESORDENADA-->
+          <!--
+<ul>
+         <li>HOLA</li>
+             <li>HOLA</li>
+             <li>HOLA</li>
+             <li>HOLA</li>
+         </ul>
+-->
+        

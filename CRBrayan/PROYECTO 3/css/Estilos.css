@@ -1,0 +1,103 @@
+table{
+    width: 100%;
+}
+body{
+    
+    background-image:  url("/image/wallpaperbetter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+}
+
+.table1{
+  
+    margin: 180 0 0 0;
+    
+    width: 40%;
+   
+}
+.table2{
+  
+    margin: 180 0 0 0;
+    
+     width: 40%;
+   
+}
+
+
+
+table td{
+  background-color: aliceblue;
+    padding: 12px 50px 12 50px;
+    text-align: center;
+    border: 1px solid;
+}
+
+
+h1{
+    
+     text-align: center;
+     background-color: #094293;
+    font-size: 50px;
+    color: orangered;
+    
+}
+ul{
+ list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #094293;
+  text-align: center; 
+  padding: 0 0 0 0;
+   
+}
+li{
+
+    float:inherit;
+    display: inline-block;
+    background-color:094293;
+    
+}
+li a{
+display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    
+}
+header{
+    position: fixed;
+    width: 100%;
+    margin-top:auto;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+p {
+  margin: 1em;
+}
+
+/*.cols {
+  display: table;
+  width: 100%;
+}
+.cols div {
+  display: table-cell;
+}
+
+.col1 {
+  background-color: red;
+}
+
+.col2 {
+  background-color: skyblue;
+}
+*/
